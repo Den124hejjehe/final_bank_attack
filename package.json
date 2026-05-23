@@ -1,0 +1,9 @@
+{
+  "name": "bank-attack",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ton/sandbox": "^0.18.0",
+    "@ton/core": "^0.49.0",
+    "@ton/blueprint": "^0.6.0"
+  }
+}
